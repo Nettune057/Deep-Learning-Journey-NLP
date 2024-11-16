@@ -1,0 +1,3 @@
+cupy-cuda114
+numpy
+python-dotenv
