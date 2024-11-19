@@ -15,3 +15,15 @@ learn again with parameters when data are renewed
 -> Word precision - skip-gram
 
 -> Speed of learning - CBOW
+
+Negative Sampling
+
+not just a positive yes (correct answer),
+binary classification that also takes into account
+negative yes (incorrect answers)
+- Correct answer -> close to output 1
+- Wrong answer - > close to output 0
+- And proper weights to produce these results
+- Learning all negative examples..? -> Select only a few
+
+## Day 2: Recurrent Neural Network
